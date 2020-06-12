@@ -6,14 +6,14 @@
 - Connect topics from history to current times
 
 ## How does it work?
-* Discussion meets once a week **over Zoom.**
+* Discussion meets once a week **over Zoom**
     * Zoom link here: 
 * There will be a list of readings (and other resources) for each week's discussion.
-    * Readings will be **short form**: articles and papers.
+    * Readings will be **short form**: articles and papers
 * During discussion, we will
-    * ask and discuss critical questions raised by the readings
-    * engage with difficult topics in an open and understanding way
-    * try to understand how the history has constructed the present.
+    * **ask and discuss critical questions** raised by the readings
+    * **engage with difficult topics** in an open and understanding way
+    * try to **understand how the history has shaped current situations and mindsets**
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
