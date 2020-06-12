@@ -7,6 +7,7 @@
 
 ## How does it work?
 - There will be a list of readings (and other resources) for each week's discussion
+  - Readings will be short form: articles and papers
 - Discussion meets once a week over Zoom
 - During discussion, we will
   - ask and discuss critical questions raised by the readings
@@ -16,8 +17,9 @@
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
 ## Schedule for readings and discussions
-1. Talking about racism (with privilege and trauma in mind)
-2. Slavery, Reconstruction, and reparations
+### Select a week for materials
+1. [Talking about racism (with privilege and trauma in mind)](./talking-about-racism)
+2. Slavery, Reconstruction, and reparations](
 3. Mass incarceration and the school-to-prison pipeline
 4. History and current moment of police brutality 
 5. Protests, riots, and activism
