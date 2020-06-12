@@ -1,6 +1,6 @@
 
-## Materials for the week:
-#### Click title for pdf
+## Materials for the week
+#### Click title for pdf:
 
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
@@ -13,3 +13,8 @@
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 
 <div><a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a></div>
+
+## Questions to ponder
+1. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
+2. What is the cost of privilege? Is it possible to create a just society without some people giving up privileges based on race? Can privilege be redistributed?
+3. How do you interact with privilege in your everyday life? What facets of life does privilege affect?
