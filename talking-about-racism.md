@@ -1,7 +1,7 @@
 
 Materials:
 
-- <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a>
+- <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
 - Unpacking the Invisible Knapsack 
   - Peggy McIntosh, non-Black feminist, anti-racist scholar and speaker
