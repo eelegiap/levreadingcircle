@@ -10,4 +10,4 @@ Materials:
 - White people assume niceness is the answer to racial inequality. It is not.
   - Robin DiAngelo, a White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 
-<div><a href="week1/week1.zip">Download entire week's text</a></div>
+<div><a href="week1/week 1.zip">Download entire week's text</a></div>
