@@ -1,6 +1,6 @@
 
-##Materials for the week:
-###Click document for pdf
+## Materials for the week:
+### Click document for pdf
 
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
@@ -11,4 +11,4 @@
 - <a href="week1/is-niceness-the-answer?.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 
-<div><a href="week1/week 1.zip">Download entire week's materials here</a></div>
+<div><a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a></div>
