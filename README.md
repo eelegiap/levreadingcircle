@@ -9,7 +9,7 @@
 * Discussion meets once a week over Zoom.
     * Zoom link here: 
 * There will be a list of readings (and other resources) for each week's discussion.
-    * Readings will be short form: articles and papers.
+    * Readings will be **short form**: articles and papers.
 * During discussion, we will
     * ask and discuss critical questions raised by the readings
     * engage with difficult topics in an open and understanding way
