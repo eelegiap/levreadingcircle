@@ -7,6 +7,7 @@
 
 ## How does it work?
 * Discussion meets once a week over Zoom.
+    * Zoom link here: 
 * There will be a list of readings (and other resources) for each week's discussion.
     * Readings will be short form: articles and papers.
 * During discussion, we will
