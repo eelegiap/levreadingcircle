@@ -19,11 +19,11 @@
 ## Schedule for readings and discussions
 ### Select a week to see materials and discussion questions:
 1. [Talking about racism (with privilege and trauma in mind)](./talking-about-racism)
-2. Slavery, Reconstruction, and reparations](
-3. Mass incarceration and the school-to-prison pipeline
-4. History and current moment of police brutality 
-5. Protests, riots, and activism
-6. Economic and educational disparities
-7. Racism and public health
-8. Intersectional issues (feminism, LGBTQIA+, disability)
-9. Black culture as/in American culture
+2. [Slavery, Reconstruction, and reparations](./slavery-reconstruction-reparations)
+3. [Mass incarceration and the school-to-prison pipeline](./mass-incarceration)
+4. [History and current moment of police brutality](./police-brutality)
+5. [Protests, riots, and activism](./protest-riots-activism)
+6. [Economic and educational disparities](./economic-educational)
+7. [Racism and public health](./public-health)
+8. [Intersectional issues (feminism, LGBTQIA+, disability)](./intersectional-issues)
+9. [Black culture as/in American culture](./culture)
