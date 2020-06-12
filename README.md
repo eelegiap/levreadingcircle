@@ -5,14 +5,14 @@
 - Create a nonjudgmental, supportive, and inclusive space for discussion, questions, and education
 - Connect topics from history to current times
 
-## How does it work?
-- Discussion meets once a week over Zoom
-- There will be a list of readings (and other resources) for each week's discussion
-  - Readings will be short form: articles and papers
+## How does it work?.
+- Discussion meets once a week over Zoom.
+- There will be a list of readings (and other resources) for each week's discussion.
+  - Readings will be short form: articles and papers.
 - During discussion, we will
   - ask and discuss critical questions raised by the readings
   - engage with difficult topics in an open and understanding way
-  - try to understand how the history has constructed the present
+  - try to understand how the history has constructed the present.
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
