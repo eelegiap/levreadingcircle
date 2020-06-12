@@ -5,7 +5,7 @@
 - Create a nonjudgmental, supportive, and inclusive space for discussion, questions, and education
 - Connect topics from history to current times
 
-## How does it work?.
+## How does it work?
 * Discussion meets once a week over Zoom.
 * There will be a list of readings (and other resources) for each week's discussion.
     * Readings will be short form: articles and papers.
