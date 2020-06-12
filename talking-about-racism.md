@@ -1,6 +1,5 @@
-
 ## Materials for the week
-#### Click title for pdf:
+### Click title for pdf:
 
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
