@@ -1,6 +1,8 @@
 
 Materials:
+<div>
 <a href="week1/what-is-white-privilege.pdf">Download</a>
+</div>
 - What is White Privilege, Really? 
   - Cory Collins, non-Black senior writer at Teaching Tolerance
 - Unpacking the Invisible Knapsack 
