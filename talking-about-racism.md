@@ -13,7 +13,7 @@
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 
 <div><a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a></div>
-
+<br>
 ## Questions to ponder
 1. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
 2. What is the cost of privilege? Is it possible to create a just society without some people giving up privileges based on race? Can privilege be redistributed?
