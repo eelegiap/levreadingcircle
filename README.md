@@ -1,12 +1,12 @@
 # Welcome to Lev Reading Circle!
 
 ## What is the purpose of Lev Reading Circle?
-- Provide resources, accountability, and direction for students who want to read and learn about institutionalized racism in the US
-- Create a nonjudgmental, supportive, and inclusive space for discussion, questions, and education
+- Provide *resources, accountability, and direction* for students who want to read and learn about **institutionalized racism in the US**
+- Create a *nonjudgmental, supportive, and inclusive space* for discussion, questions, and education
 - Connect topics from history to current times
 
 ## How does it work?
-* Discussion meets once a week over Zoom.
+* Discussion meets once a week **over Zoom.**
     * Zoom link here: 
 * There will be a list of readings (and other resources) for each week's discussion.
     * Readings will be **short form**: articles and papers.
