@@ -17,7 +17,7 @@
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
 ## Schedule for readings and discussions
-### Select a week for materials
+### Select a week to see materials and discussion questions:
 1. [Talking about racism (with privilege and trauma in mind)](./talking-about-racism)
 2. Slavery, Reconstruction, and reparations](
 3. Mass incarceration and the school-to-prison pipeline
