@@ -9,6 +9,7 @@
 - <a href="week1/who-gets-to-be-afraid-in-America.pdf">Who Gets to be Afraid in America?</a> (6 pages)
   - Ibram X. Kendi, Black writer and professor
 - <a href="week1/is-niceness-the-answer?.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
+- <a href="week1/is-niceness-the-answer?.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 
 <div><a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a></div>
