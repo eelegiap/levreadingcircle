@@ -10,8 +10,9 @@
 - <a href="week1/who-gets-to-be-afraid-in-America.pdf">Who Gets to be Afraid in America?</a> (6 pages)
   - Ibram X. Kendi, Black writer and professor
 
-<div><a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a></div>
-<br>
+<a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a>
+
+
 ## Questions to ponder
 1. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
 2. What is the cost of privilege? Is it possible to create a just society without some people giving up privileges based on race? Can privilege be redistributed?
