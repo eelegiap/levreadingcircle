@@ -7,7 +7,7 @@
   - Ta-Nehisi Coates, Black author and journalist
   - Optional: Coates' well-known article <a href="week2/case-for-reparations.pdf">The Case for Reparations</a>. While the article is 58 pages, the font is LARGE and there are many photos. Some interesting sections are:
     - Part III: "We Inherit Our Ample Patrimony" (on pg. 17 of the PDF) which gives a short history of reparations and introduces the HR-40 bill for reparations
-    - Part X: "There will be 'No Reparations' from Germany" (on pg. 49 of the PDF) which compares reparations for slavery to reparations for the Holocaust. 
+    - Part X: "There will be 'No Reparations' from Germany" (on pg. 49 of the PDF) which compares slavery reparations efforts to Holocaust reparation efforts. 
 - <a href="week1/is-niceness-the-answer.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
 - <a href="week1/who-gets-to-be-afraid-in-America.pdf">Who Gets to be Afraid in America?</a> (6 pages)
