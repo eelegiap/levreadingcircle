@@ -17,6 +17,8 @@
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
+#### Questions, suggestions, or friendly banter can be directed to <a href="mailto:paigelee@college.harvard.edu">Paige Lee</a>.
+
 ## Schedule for readings and discussions
 ### Select a week to see materials and discussion questions:
 1. [Talking about racism (with privilege in mind)](./talking-about-racism)
