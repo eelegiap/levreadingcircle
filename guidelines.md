@@ -13,4 +13,4 @@
 10. **Notice your own defensive reactions** and attempt to use these reactions as entry points for gaining deeper self-knowledge, rather than as a rationale for closing off
 11. While personal anecdotal evidence is powerful and sometimes necessary for good discussion, **focus on broader group-level patterns**
 12. In general, **criticize ideas, not individuals** or groups
-13. **What is shared in reading circle stays in reading circle!**
+13. **What is shared in reading circle stays in reading circle!** Do not record or circulate videos or quotes from the circle out of respect for people's privacy and safety.
