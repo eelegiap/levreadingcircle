@@ -1,4 +1,5 @@
-## Materials for the week
+## Materials for the Week 2
+# Slavery, Reconstruction, and reparations
 ### Click title for pdf:
 
 - <a href="https://www.youtube.com/watch?v=FrTxjkMPguU">Video: Mitch McConnell's statement on reparations</a> (1 minute)
