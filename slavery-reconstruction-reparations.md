@@ -9,10 +9,12 @@
   - Optional: Coates' well-known article <a href="week2/case-for-reparations.pdf">The Case for Reparations</a>. While the article is 58 pages, the font is LARGE and there are many photos. Some interesting sections are:
     - Part III: "We Inherit Our Ample Patrimony" (on pg. 17 of the PDF) which gives a short history of reparations and introduces the HR-40 bill for reparations
     - Part X: "There will be 'No Reparations' from Germany" (on pg. 49 of the PDF) which compares slavery reparations efforts to Holocaust reparation efforts. 
-- <a href="week1/is-niceness-the-answer.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
-  - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
+- <a href="week2/wapo-article">The missing pieces of America’s education</a> (3 pages)
+  - A collection of five essays by five authors (sorry this is a jpeg lol the pdf was being wack)
 - <a href="week2/why-reconstruction-matters.pdf">Why Reconstruction Matters</a> (5 pages)
   - Eric Foner, White historian and professor
+ - <a href=
+  
 <a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a>
 
 
