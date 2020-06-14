@@ -16,4 +16,4 @@
 ## Questions to ponder
 1. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
 2. What is the cost of privilege? Is it possible to create a just society without some people giving up their privileges? Can privilege be redistributed?
-3. Why is privilege a difficult topic to talk about? How often do you address privilege in your everyday life?
+3. Why is privilege a difficult topic to talk about? How and how often do you address privilege in your everyday life?
