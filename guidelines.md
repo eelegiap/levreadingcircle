@@ -1,5 +1,5 @@
 ## These guidelines and expectations are vital to maintaining a safe, inclusive, and respectful environment.
-### A safe, inclusive, and respectful environment will facilitate open and honest discussion and allow people to make and correct their mistakes. 
+#### A safe, inclusive, and respectful environment will facilitate open and honest discussion and allow people to engage with difficult topics in a constructive way.
 
 1. **Hateful, disrespectful, or discriminatory speech** towards people or groups **will not be tolerated.**
 2. **Allow everyone the chance to speak** without interruptions
