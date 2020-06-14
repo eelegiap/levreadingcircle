@@ -1,4 +1,5 @@
-## Materials for the week
+## Materials for Week 1
+# Talking about racism and privilege
 ### Click title for pdf:
 
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
