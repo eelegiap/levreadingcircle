@@ -1,4 +1,4 @@
-## Materials for the Week 2
+## Materials for Week 2
 # Slavery, Reconstruction, and reparations
 ### Click title for pdf:
 
@@ -11,9 +11,8 @@
     - Part X: "There will be 'No Reparations' from Germany" (on pg. 49 of the PDF) which compares slavery reparations efforts to Holocaust reparation efforts. 
 - <a href="week1/is-niceness-the-answer.pdf">White people assume niceness is the answer to racial inequality. It is not.</a> (3 pages)
   - Robin DiAngelo, White author (of White Fragility: Why It's So Hard for White People to Talk about Racism)
-- <a href="week1/who-gets-to-be-afraid-in-America.pdf">Who Gets to be Afraid in America?</a> (6 pages)
-  - Ibram X. Kendi, Black writer and professor
-
+- <a href="week2/why-reconstruction-matters.pdf">Why Reconstruction Matters</a> (5 pages)
+  - Eric Foner, White historian and professor
 <a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a>
 
 
