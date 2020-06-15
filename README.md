@@ -17,7 +17,7 @@
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
-#### Questions, suggestions, or friendly banter can be directed to <a href="mailto:paigelee@college.harvard.edu">Paige Lee</a>.
+#### Questions, suggestions, or friendly banter can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
 
 ## Reading and discussion schedule
 ### Select a week to see materials and discussion questions:
