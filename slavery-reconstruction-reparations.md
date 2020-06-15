@@ -6,7 +6,7 @@
   - Mitch McConnell, White senator and Senate Majority Leader
 - <a href="https://www.youtube.com/watch?v=kcCnQ3iRkys">Video: Ta-Nehisi Coates's statement on reparations at 2019 House hearing</a> (includes references to McConnell's statement) (5 minutes)
   - Ta-Nehisi Coates, Black author and journalist
-  - Optional: Coates' well-known article <a href="week2/case-for-reparations.pdf">The Case for Reparations</a>. While the article is 58 pages, the font is LARGE and there are many photos. Some interesting sections are:
+  - Optional: Coates' well-known article <a href="week2/case-for-reparations.pdf">The Case for Reparations</a>. While the article is 50+ pages, the font is LARGE and there are many photos. Some interesting sections are:
     - Part III: "We Inherit Our Ample Patrimony" (on pg. 17 of the PDF) which gives a short history of reparations and introduces the HR-40 bill for reparations
     - Part X: "There will be 'No Reparations' from Germany" (on pg. 49 of the PDF) which compares slavery reparations efforts to Holocaust reparation efforts. 
 - <a href="week2/wapo-article">The missing pieces of America’s education</a> (5 pages)
