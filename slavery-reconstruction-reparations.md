@@ -13,7 +13,7 @@
   - A collection of five essays by five authors (sorry this is a jpg lol the pdf was being wack)
 - <a href="https://www.montpelier.org/learn/slavery-constitution-lasting-legacy">Slavery, the Constitution, and a Lasting Legacy</a> (8-9 pages)
   - Compiled by The Robert H. Smith Center for the Constitution
-- <a href="">Confronting Academia's Ties to Slavery</a>
+- <a href="week2/harvard-slavery.pdf">Confronting Academia's Ties to Slavery</a> (3 pages)
   - Jennifer Schuessler, NYTimes reporter
 - <a href="week2/why-reconstruction-matters.pdf">Why Reconstruction Matters</a> (5 pages)
   - Eric Foner, White historian and professor
