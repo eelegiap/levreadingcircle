@@ -1,4 +1,4 @@
-## Materials for Week 1 (June 21st, 4pm EDT)
+## Materials for Week 1 (Sunday, June 21st, 4pm EDT)
 # Talking about racism and privilege
 ### Click title for pdf:
 
