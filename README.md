@@ -19,7 +19,7 @@
 
 #### Questions, suggestions, or friendly banter can be directed to <a href="mailto:paigelee@college.harvard.edu">Paige Lee</a>.
 
-## Schedule for readings and discussions
+## Reading and discussion schedule
 ### Select a week to see materials and discussion questions:
 1. [Talking about racism and privilege](./talking-about-racism) (Sunday, June 21st, 4pm EDT)
 2. [Slavery, Reconstruction, and reparations](./slavery-reconstruction-reparations)
