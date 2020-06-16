@@ -4,6 +4,7 @@
 - Provide **resources, accountability, and direction** for students who want to read and learn about **institutionalized racism in the US**
 - Create a **nonjudgmental, supportive, and inclusive space** for meaningful discussion, questions, and education
 - Connect topics from history to the current situation
+- Serve as a springboard or contextualizing space for **getting tangibly involved** with the ongoing fight for racial justice and equality
 
 ## How does it work?
 * Discussion meets once a week **over Zoom**, typically on Sundays
