@@ -17,6 +17,6 @@
 
 
 ## Discussion questions
-1. What are the potential problems with reading groups about Black issues? How can reading groups avoid trivializing the racial  performative
+1. What are the potential problems with reading groups about Black issues? How can reading groups avoid trivializing the deeply-entrenched generational trauma of racism and stop the cycle of performative allyship?
 2. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
 3. What is the cost of privilege? Can privilege be redistributed? How can people address privilege in a constructive way?
