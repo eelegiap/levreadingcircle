@@ -9,9 +9,9 @@
 ## How does it work?
 * Discussion meets once a week **over Zoom**, typically on Sundays
     * Zoom link here: TBD
-* There will be a list of readings (and other resources) for each week's discussion.
+* There will be a list of readings (and other resources) for each week's discussion
     * Readings will be **short form**: articles and papers
-    * The discussion questions are meant to be a guide or roadmap.
+    * The discussion questions are meant to be a guide
 * During discussion, we will
     * **ask and discuss critical questions** raised by the readings
     * **engage with difficult topics** in an open and understanding way
