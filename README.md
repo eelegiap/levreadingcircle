@@ -19,7 +19,7 @@
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
 #### Questions, suggestions, or comments can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
-#### Join the mailing list or leave anonymous comments [here](https://docs.google.com/forms/d/e/1FAIpQLSdlyTHkFIONpvRgtm3JMtQsmr-Pz8IBIVMo_KzGsrkQYnt-Vg/viewform)
+#### Join LAARC's mailing list or leave anonymous comments [here](https://docs.google.com/forms/d/e/1FAIpQLSdlyTHkFIONpvRgtm3JMtQsmr-Pz8IBIVMo_KzGsrkQYnt-Vg/viewform).
 
 A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen, and Kathleen Esfahany for their ongoing input and kindness. 
 
