@@ -17,9 +17,9 @@
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
-#### Questions, suggestions, or friendly banter can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
+#### Questions, suggestions, or comments can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
 
-A special thanks to my collaborators Denisse Cordova Carrizales, Alyssa Chen, and Kathleen Esfahany. 
+A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen, and Kathleen Esfahany for their ongoing input and kindness. 
 
 ## Reading and discussion schedule
 ### Select a week to see materials and discussion questions:
