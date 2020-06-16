@@ -15,4 +15,4 @@
 12. In general, **criticize ideas, not individuals** or groups
 13. **What is shared in reading circle stays in reading circle!** Do not record or circulate videos or quotes from the circle out of respect for people's privacy and safety.
 
-These guidelines and expectations have been adapted and inspired by [The University of Michigan Center for Research on Teaching and Learning](http://crlt.umich.edu/examples-discussion-guidelines). 
+These guidelines and expectations have been adapted and inspired by [The University of Michigan Center for Research on Teaching & Learning](http://crlt.umich.edu/examples-discussion-guidelines). 
