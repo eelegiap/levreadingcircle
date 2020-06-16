@@ -2,6 +2,8 @@
 # Talking about racism and privilege
 ### Click title for pdf:
 
+- <a href="week1/white-book-clubs.pdf></a>
+  - 
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
 - <a href="week1/invisible-knapsack-1989.pdf">Unpacking the Invisible Knapsack</a> (3 pages)
@@ -16,5 +18,6 @@
 
 ## Questions to ponder
 1. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
-2. What is the cost of privilege? Is it possible to create a just society without some people giving up their privileges? Can privilege be redistributed?
+2. What is the cost of privilege? Can privilege be redistributed?
 3. Why is privilege a difficult topic to talk about? How and how often do you address privilege in your everyday life?
+4. How can people address privilege in a constructive way?
