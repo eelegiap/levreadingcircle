@@ -19,6 +19,8 @@
 
 #### Questions, suggestions, or friendly banter can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
 
+A special thanks to my collaborators Denisse Cordova Carrizales, Alyssa Chen, and Kathleen Esfahany. 
+
 ## Reading and discussion schedule
 ### Select a week to see materials and discussion questions:
 1. [Talking about racism and privilege](./talking-about-racism) (Sunday, June 21st, 4pm EDT)
