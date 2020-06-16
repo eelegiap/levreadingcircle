@@ -1,4 +1,4 @@
-# Welcome to Lev Anti-Racist Reading Circle (LARRC)!
+# Welcome to Lev Anti-Racism Reading Circle (LARRC)!
 
 ## What is the purpose of LARRC?
 - Provide **resources, accountability, and direction** for students who want to read and learn about **institutionalized racism in the US**
