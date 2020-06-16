@@ -1,15 +1,16 @@
-# Welcome to Lev Reading Circle!
+# Welcome to Lev Anti-Racist Reading Circle (LARRC)!
 
-## What is the purpose of Lev Reading Circle?
+## What is the purpose of Lev Anti-Racist Reading Circle?
 - Provide **resources, accountability, and direction** for students who want to read and learn about **institutionalized racism in the US**
 - Create a **nonjudgmental, supportive, and inclusive space** for meaningful discussion, questions, and education
 - Connect topics from history to current times
 
 ## How does it work?
 * Discussion meets once a week **over Zoom**
-    * Zoom link here: 
+    * Zoom link here: TBD
 * There will be a list of readings (and other resources) for each week's discussion.
     * Readings will be **short form**: articles and papers
+    * The discussion questions are meant to be a guide or roadmap.
 * During discussion, we will
     * **ask and discuss critical questions** raised by the readings
     * **engage with difficult topics** in an open and understanding way
@@ -18,6 +19,7 @@
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
 #### Questions, suggestions, or comments can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
+#### Join the mailing list or leave anonymous comments [here](https://docs.google.com/forms/d/e/1FAIpQLSdlyTHkFIONpvRgtm3JMtQsmr-Pz8IBIVMo_KzGsrkQYnt-Vg/viewform)
 
 A special thank you to my collaborators Denisse Cordova Carrizales, Alyssa Chen, and Kathleen Esfahany for their ongoing input and kindness. 
 
