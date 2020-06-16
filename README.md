@@ -17,7 +17,7 @@
     * try to **understand how the history has shaped current situations and mindsets**
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
-#### Note: this group is committed to fostering a respectful, welcoming, and judgment-free zone for people of all identities (regardless of race, ethnicity, gender, sexual orientation, and more) and people of all knowledge levels
+#### Please note: this group is committed to fostering a respectful, welcoming, and judgment-free zone for people of all identities (regardless of race, ethnicity, gender, sexual orientation, and more) and people of all knowledge levels
 
 ## Feedback and mailing list
 #### Questions, suggestions, or comments can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
