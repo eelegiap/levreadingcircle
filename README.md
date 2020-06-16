@@ -6,7 +6,7 @@
 - Connect topics from history to current times
 
 ## How does it work?
-* Discussion meets once a week **over Zoom**
+* Discussion meets once a week **over Zoom**, typically on Sundays
     * Zoom link here: TBD
 * There will be a list of readings (and other resources) for each week's discussion.
     * Readings will be **short form**: articles and papers
