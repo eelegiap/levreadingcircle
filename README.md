@@ -18,6 +18,7 @@
 
 ### [Guidelines and expectations can be found here](./guidelines.html).
 
+### Feedback and mailing list
 #### Questions, suggestions, or comments can be directed to <a href="mailto:paigelee@college.harvard.edu">paigelee@college.harvard.edu</a>.
 #### Join LAARC's mailing list or leave anonymous comments [here](https://docs.google.com/forms/d/e/1FAIpQLSdlyTHkFIONpvRgtm3JMtQsmr-Pz8IBIVMo_KzGsrkQYnt-Vg/viewform).
 
