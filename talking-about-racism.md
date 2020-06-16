@@ -2,8 +2,8 @@
 # Talking about racism and privilege
 ### Click title for pdf:
 
-- <a href="week1/white-book-clubs.pdf></a>
-  - 
+- <a href="week1/white-book-clubs.pdf>When black people are in pain, white people just join book clubs</a> (5 pages)
+  - Tre Johnson, Black freelance writer
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
 - <a href="week1/invisible-knapsack-1989.pdf">Unpacking the Invisible Knapsack</a> (3 pages)
