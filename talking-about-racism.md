@@ -2,7 +2,7 @@
 # Talking about racism and privilege
 ### Click title for pdf:
 
-- <a href="week1/white-book-clubs.pdf>When black people are in pain, white people just join book clubs</a> (5 pages)
+- <a href="week1/white-book-clubs.pdf">When Black People are in Pain, White People Just Join Book Clubs</a> (5 pages)
   - Tre Johnson, Black freelance writer
 - <a href="week1/what-is-white-privilege.pdf">What is White Privilege, Really?</a> (9 pages)
   - Cory Collins, non-Black senior writer at Teaching Tolerance
@@ -16,8 +16,7 @@
 <a href="week1/week1-race_and_privilege.zip">Download entire week's materials here</a>
 
 
-## Questions to ponder
-1. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
-2. What is the cost of privilege? Can privilege be redistributed?
-3. Why is privilege a difficult topic to talk about? How and how often do you address privilege in your everyday life?
-4. How can people address privilege in a constructive way?
+## Discussion questions
+1. What are the potential problems with reading groups about Black issues? How can reading groups avoid trivializing the racial  performative
+2. How is white privilege described differently in the Collins and McIntosh pieces? What are the implications of these different definitions of white privilege?
+3. What is the cost of privilege? Can privilege be redistributed? How can people address privilege in a constructive way?
