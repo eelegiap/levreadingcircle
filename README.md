@@ -3,7 +3,7 @@
 ## What is the purpose of Lev Anti-Racist Reading Circle?
 - Provide **resources, accountability, and direction** for students who want to read and learn about **institutionalized racism in the US**
 - Create a **nonjudgmental, supportive, and inclusive space** for meaningful discussion, questions, and education
-- Connect topics from history to current times
+- Connect topics from history to the current situation
 
 ## How does it work?
 * Discussion meets once a week **over Zoom**, typically on Sundays
